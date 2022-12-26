@@ -2,3 +2,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.coffe-top-menu-item{
+    @apply cursor-pointer hover:text-light-coffe relative after:absolute after:bottom-0 after:left-0 after:bg-light-coffe after:h-0.5 
+    after:w-0 hover:after:w-full after:transition-all after:ease-in-out after:duration-300;
+}
+.coffe-house-icon{
+    @apply w-5 h-5 flex;
+}
+.badge-circle{
+    @apply text-xs text-center rounded-full py-1 px-1;
+}
