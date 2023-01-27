@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'light-coffe':'#C89F94'
+        'light-coffe':'#af5b2f'
       },
       fontFamily:{
         GlobalFont:['Dancing Script','cursive']
