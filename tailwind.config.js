@@ -7,6 +7,9 @@ module.exports = {
     extend: {
       colors:{
         'light-coffe':'#C89F94'
+      },
+      fontFamily:{
+        GlobalFont:['Dancing Script','cursive']
       }
     },
   },
