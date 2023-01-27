@@ -29,9 +29,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Create web Aplication
 
 -  FE :
-    Tailwind :
+    1.Tailwind :
         + Extend Css
         + Apply Css
         + Global font 
         + FavIcon
+
+    2.Responsive :
+        + Customizing Screens
         
