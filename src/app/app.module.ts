@@ -12,6 +12,8 @@ import { MoreProductComponent } from './more-product/more-product.component';
 import { CoffeMagazineComponent } from './coffe-magazine/coffe-magazine.component';
 import { LifeStyleStoriesComponent } from './life-style-stories/life-style-stories.component';
 import { SubcribeUsComponent } from './subcribe-us/subcribe-us.component';
+import { TopMenuComponent } from './header/top-menu/top-menu.component';
+import { MobileMenuComponent } from './header/mobile-menu/mobile-menu.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { SubcribeUsComponent } from './subcribe-us/subcribe-us.component';
     MoreProductComponent,
     CoffeMagazineComponent,
     LifeStyleStoriesComponent,
-    SubcribeUsComponent
+    SubcribeUsComponent,
+    TopMenuComponent,
+    MobileMenuComponent
   ],
   imports: [
     BrowserModule,
